@@ -24,4 +24,4 @@ Below visual flow, describes the approach to solve our problem in an autonmomous
 8. Review the activity map and observe the results in the test pane.
 
 ## Video demo:
-[Click here to view the video demo]()
+[Click here to view the video demo](https://youtu.be/DBwGtaoKOIs)
